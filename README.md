@@ -22,7 +22,7 @@
 
 
  <p align="left">
-<a href="https://criss-vevo-a58c8cd81fc9.herokuapp.com"><img src="https://img.shields.io/badge/Get%20Session%20-white" alt=" 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 02" width="200"></a>
+<a href="https://criss-shauri-a58c8cd81fc9.herokuapp.com"><img src="https://img.shields.io/badge/Get%20Session%20-white" alt=" 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 02" width="200"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
